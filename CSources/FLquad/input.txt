@@ -1,0 +1,10 @@
+1042       ! Size
+-1     ! idum0
+0.0 1.0 ! v0,v1
+1 ! npc 
+0.50
+6.0 6.0 1.0 ! w0,w1,w2
+1 ! samples
+2 ! ran generator
+1 ! msee
+
